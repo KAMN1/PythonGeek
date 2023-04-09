@@ -1,0 +1,7 @@
+print("введите число 1")
+a = int(input())
+print("введите число 2")
+b = int(input())
+print("введите число 3")
+c = int(input())
+print(a*b*c)
